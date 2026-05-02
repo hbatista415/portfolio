@@ -1,4 +1,4 @@
-import Headshot from "../assets/Headshot.JPG" ;
+import headshot from "../assets/headshot.JPG" ;
 
 export default function Home() {
   return (
