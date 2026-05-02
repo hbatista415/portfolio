@@ -13,7 +13,7 @@ export default function Projects() {
         title="Interactive Sidebar Menu Application"
         image={listImg}
         desc="A React app with a sidebar menu where users can view, add, and filter menu items using input fields and state updates."
-        link="https://github.com/hbatista415/React-App-1?tab=readme-ov-file"
+        link="https://hbatista415.github.io/React-App-1/"
       />
 
       <ProjectCard
@@ -27,7 +27,7 @@ export default function Projects() {
         title="Expo Todo List"
         image={todoImg}
         desc="A simple todo list app built with Expo."
-        link="https://github.com/hbatista415/todo-app"
+        link="https://hbatista415.github.io/todo-app/"
       />
     </div>
   );
