@@ -1,4 +1,4 @@
-import headshot from "../assets/headshot.JPG" ;
+import headshot from "../assets/headshot.png" ;
 
 export default function Home() {
   return (
@@ -12,7 +12,7 @@ export default function Home() {
         Premiere, and HTML, and I'm eager to continue developing my skills to
         create impactful and engaging content.
       </p>
-      <img src={Headshot} alt="Profile" width="200" />
+      <img src={headshot} alt="Profile" width="200" />
     </div>
   );
 }
